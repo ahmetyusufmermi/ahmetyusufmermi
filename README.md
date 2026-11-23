@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:8957e5&height=200&section=header&text=Hi%20there,%20I'm%20Yusuf&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Game%20and%20Fullstack%20Developer%20from%20Istanbul&descAlignY=60&descSize=18" width="100%" alt="Header" />
 
-  <a href="https://github.com/Yusufmermi">
+  <a href="https://github.com/ahmetyusufmermi">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Multiplayer+games+with+Unity;Fullstack+apps+with+Next.js+%2B+ASP.NET+Core;CS+student+%40+Gebze+Technical+University;Deep+RL+for+robot+control" alt="Typing SVG" />
   </a>
 
@@ -43,7 +43,7 @@
     <td>Next.js · ASP.NET Core</td>
   </tr>
   <tr>
-    <td>🤖 <a href="https://github.com/Yusufmermi/deep-rl-ai-acrobot-pendubot-control"><b>Deep RL Control</b></a></td>
+    <td>🤖 <a href="https://github.com/ahmetyusufmermi/deep-rl-ai-acrobot-pendubot-control"><b>Deep RL Control</b></a></td>
     <td>RL agents that swing up and balance the Acrobot & Pendubot</td>
     <td>Python</td>
   </tr>
@@ -56,19 +56,19 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="165" src="https://raw.githubusercontent.com/Yusufmermi/Yusufmermi/output/year-stats.svg" alt="Yusuf's GitHub stats this year" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufmermi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="165" src="https://raw.githubusercontent.com/ahmetyusufmermi/ahmetyusufmermi/output/year-stats.svg" alt="Yusuf's GitHub stats this year" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyusufmermi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Yusufmermi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ahmetyusufmermi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yusufmermi/Yusufmermi/output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yusufmermi/Yusufmermi/output/galaga-contribution-graph.svg" />
-    <img alt="Galaga playing on my contribution graph" src="https://raw.githubusercontent.com/Yusufmermi/Yusufmermi/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmetyusufmermi/ahmetyusufmermi/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmetyusufmermi/ahmetyusufmermi/output/galaga-contribution-graph.svg" />
+    <img alt="Galaga playing on my contribution graph" src="https://raw.githubusercontent.com/ahmetyusufmermi/ahmetyusufmermi/output/galaga-contribution-graph-dark.svg" />
   </picture>
 </div>
 

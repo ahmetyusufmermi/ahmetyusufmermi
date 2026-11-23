@@ -13,7 +13,7 @@ import urllib.request
 from datetime import datetime, timezone
 from html import escape
 
-LOGIN = "Yusufmermi"
+LOGIN = "ahmetyusufmermi"
 NAME = "Yusuf"
 
 # tokyonight theme, matching the other cards in README.md
